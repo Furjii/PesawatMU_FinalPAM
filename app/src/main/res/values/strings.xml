@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">PesawatMU</string>
+    <string name="Add_Tiket">Tambah Tiket</string>
+    <string name="deskripsi_no_item">Tidak ada data Tiket. Tap + untuk menambah data</string>
+    <string name="nama">Nama Penumpang*</string>
+    <string name="nik">Nomor Induk Kependudukan</string>
+    <string name="umur">Umur Penumpang*</string>
+    <string name="maskapai">Nama Maskapai :</string>
+    <string name="rute">rute Penerbangan :</string>
+    <string name="jadwal">jadwal Tiket :</string>
+    <string name="required_field">* required fields</string>
+    <string name="btn_submit">Submit</string>
+    <string name="detail_Tiket">Detail Tiket</string>
+    <string name="edit_Tiket">Edit Tiket</string>
+    <string name="back">Back</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="delete">Hapus</string>
+    <string name="update">Edit</string>
+    <string name="attention">Perhatian</string>
+    <string name="tanya">Apakah anda yakin menghapus ini ?</string>
+    <string name="back_button">kembali</string>
+    <string name="confirm">Konfirmasi</string>
+    <string name="next">Lanjut</string>
+    <string name="cancel">Batal</string>
+    <string name="data_pesawat">Data Pesawat</string>
+    <string name="data_penumpang">Data Penumpang</string>
+    <string name="pria">Pria</string>
+    <string name="wanita">Wanita</string>
+    <string name="maskapai1">Garuda Indonesia</string>
+    <string name="maskapai2">Lion Air</string>
+    <string name="maskapai3">Batik Air</string>
+    <string name="maskapai4">Citilink</string>
+    <string name="maskapai5">Super Air jet</string>
+    <string name="maskapai6">Air Asia</string>
+    <string name="jk">Jenis Kelamin</string>
+</resources>

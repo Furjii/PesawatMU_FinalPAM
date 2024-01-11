@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "711931385838",
+    "project_id": "pesawatmu-41170",
+    "storage_bucket": "pesawatmu-41170.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711931385838:android:9df1dd19521b87bf4c60ff",
+        "android_client_info": {
+          "package_name": "com.example.pesawatmu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXYf3zMwGPxDDtF7GN7tCtoHGxcnPQCvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
